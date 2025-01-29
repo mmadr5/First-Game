@@ -1,6 +1,6 @@
 PhotoShop was used to create 2D Textures such as RoadTexture
 
-Blender was used to make the walls and two towers
+Blender was used to make the walls and two towers and billboard
 
 I used Low Poly Fruit Pickups, Street Lamps 2, ToonShader from the assets store.
 

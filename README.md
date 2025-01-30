@@ -2,7 +2,7 @@ YouTube Link: https://www.youtube.com/watch?v=rhHpbAo_eqw
 
 2 Comments on my Piazza: Lora and Alexander
 
-The game camera is a 3rd person view of BB8 and they can shoot peanuts and objects, in this case,
+The game camera is a 3rd person view of BB8 and they can shoot peanuts and objects. In this case,
 5 fruits, the peanuts destroy the fruits but let's the peanuts bounce off with physics and award points,
 I have textures for the road, cement and, billboard. I have more than 3 3D models such as bilboard, BB8,
 and the towers plus more.
